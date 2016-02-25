@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/1_Value/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/2_Believe/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/3_Questions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/100_Tactics/</loc>
+  </url>
+  
+</urlset>
