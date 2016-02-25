@@ -1,0 +1,6 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "THD OSS"
+
+[params]
+    description = "Open Source at The Home Depot - A Developer's Manifesto"
