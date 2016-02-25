@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>THD OSS</title>
-    <link>/</link>
+    <link>http://stores-thd.github.io/manifesto/</link>
     <description>Recent content on THD OSS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://stores-thd.github.io/manifesto/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>We value</title>
-      <link>/post/1_Value/</link>
+      <link>http://stores-thd.github.io/manifesto/post/1_Value/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/1_Value/</guid>
+      <guid>http://stores-thd.github.io/manifesto/post/1_Value/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Respect&lt;/li&gt;
 &lt;li&gt;Collaboration&lt;/li&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>We believe</title>
-      <link>/post/2_Believe/</link>
+      <link>http://stores-thd.github.io/manifesto/post/2_Believe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2_Believe/</guid>
+      <guid>http://stores-thd.github.io/manifesto/post/2_Believe/</guid>
       <description>
 
 &lt;h4 id=&#34;that-all-projects-should:70df155f44bee713d7cb8f21203222e4&#34;&gt;that all projects should&lt;/h4&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Have an idea?</title>
-      <link>/post/3_Questions/</link>
+      <link>http://stores-thd.github.io/manifesto/post/3_Questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/3_Questions/</guid>
+      <guid>http://stores-thd.github.io/manifesto/post/3_Questions/</guid>
       <description>
 
 &lt;h4 id=&#34;ask-yourself-the-following-questions:473f71037bebd72de1c3bdcc7c8aaccd&#34;&gt;Ask yourself the following questions&lt;/h4&gt;
@@ -66,10 +66,10 @@
     
     <item>
       <title>Tactical Process</title>
-      <link>/post/100_Tactics/</link>
+      <link>http://stores-thd.github.io/manifesto/post/100_Tactics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/100_Tactics/</guid>
+      <guid>http://stores-thd.github.io/manifesto/post/100_Tactics/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Ensure your manager/team lead approves the effort&lt;/li&gt;
 &lt;li&gt;Request open source submission approval from &lt;a href=&#34;mailto:Chris_Black@homedepot.com&#34;&gt;Chris Black&lt;/a&gt;&lt;/li&gt;
