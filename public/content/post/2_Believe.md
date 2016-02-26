@@ -8,9 +8,7 @@ weight = 2
 
 * Have a readme file
 * Have a contributing file
-* List all core team members in the readme file
 * Have a license file
-* Have a changelog
 * Follow semantic versioning
-* Tag all major releases
-* Provide documentation
+* Tag all releases
+* Have publicly visable CI 
