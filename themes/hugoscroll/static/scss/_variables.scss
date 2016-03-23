@@ -11,16 +11,18 @@ $purple:            #493252;
 $red:               #E25440;
 $slate:             #3D4260;
 
-$primary-color:     #f2efe8;
-$secondary-color:   #5BA4E5;
+$primary-color:     $gray-lighter;
+$secondary-color:   $gray-lightest;
 
-$link-color:        #9FD067;
+$link-color:        #FF6600;
 $hover-color:       darken($link-color, 5%);
 
-$sans-font:         'Impact', sans-serif;
-$serif-font:        'Times New Roman', serif;
-$monospace-font : 'Lucida Console', monospace, sans-serif;
 
-$header-font-color: white;
-$primary-font-color: black;
-$secondary-font-color: #fff;
+$serif-font:        'Helvetica Neue', Helvetica, Arial, sans-serif;
+$sans-font:         $serif-font;
+$monospace-font:    $serif-font;
+
+$header-font-color: $gray-lightest;
+$primary-font-color: $gray-darkest;
+$secondary-font-color: $gray-darkest;
+$header-bg-color: $gray-darkest
