@@ -1,4 +1,4 @@
-box: debian
+box: lmmdock/debian-build-environment
 build:
   steps:
     - arjen/hugo-build:
@@ -23,5 +23,5 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: stores-thd.github.io
+        domain: allspark-thd.github.io
         basedir: public
